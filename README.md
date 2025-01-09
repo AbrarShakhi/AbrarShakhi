@@ -17,4 +17,4 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.fb.me/realAbrarShakhi)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abrarshakhi)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarshakhi&show_icons=true&locale=en&layout=compact" alt="abrarshakhi-top-languages" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarshakhi&show_icons=true&locale=en&layout=donut-vertical&theme=github_dark" alt="abrarshakhi-top-languages" /></p><br/>
