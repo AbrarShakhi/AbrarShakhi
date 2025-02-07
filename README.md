@@ -3,7 +3,7 @@
 
 <img align="right" alt="coder" width="400" src="https://th.bing.com/th/id/R.417ebee986aec41629278b1e04cfbfe9?rik=WTtA8f8o5uL7NQ&pid=ImgRaw&r=0"> <br/>
 
-- 🔭 I’m currently working on [Quick run in terminal](https://github.com/AbrarShakhi/quick-run-in-terminal) and [ilish](https://github.com/AbrarShakhi/ilish) **`Linux shell`**
+- 🔭 I’m currently working on [Quick run in terminal](https://github.com/AbrarShakhi/quick-run-in-terminal) and [bang-lish](https://github.com/AbrarShakhi/bang-lish) **`Linux shell`**
 - 🌱 I’m currently learning: **`Rust`**, **`OpenGL`** and **`Oracle APEX`**
   <!-- - 👯 I’m looking to collaborate on -->
   <!-- - 🤔 I’m looking for help with  -->
