@@ -22,17 +22,17 @@ I'm passionate about data science and application development.
 
 ## 🚀 Featured Projects
 
-[![boolean-simplify](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi\&repo=boolean-simplify&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/boolean-simplify)
+[![boolean-simplify](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi&repo=boolean-simplify&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/boolean-simplify)
 
-[![quick-run-in-terminal](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi\&repo=quick-run-in-terminal&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/quick-run-in-terminal)
+[![quick-run-in-terminal](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi&repo=quick-run-in-terminal&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/quick-run-in-terminal)
 
-[![solar-system-simulation](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi\&repo=solar-system-simulation&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/solar-system-simulation)
+[![solar-system-simulation](https://github-readme-stats.vercel.app/api/pin?username=abrarshakhi&repo=solar-system-simulation&theme=transparent&show_icons=true)](https://github.com/AbrarShakhi/solar-system-simulation)
 
 ### You Might Also Like
 
-- [bang-lish](https://github.com/AbrarShakhi/bang-lish): A simple Linux shell
-- [social-media-cli](https://github.com/AbrarShakhi/social-media-cli): A simple social media in written C, which allows you to post, like, and comment on posts.
-- [university-portal](https://github.com/AbrarShakhi/university-portal-frontend): A simple university management system written in react.
+- [bang-lish](https://github.com/AbrarShakhi/bang-lish): A simple Linux shell.
+- [social-media-cli](https://github.com/AbrarShakhi/social-media-cli): A simple social media CLI written in C, allowing you to post, like, and comment on posts.
+- [university-portal](https://github.com/AbrarShakhi/university-portal-frontend): A simple university management system written in React.
 
 ---
 
